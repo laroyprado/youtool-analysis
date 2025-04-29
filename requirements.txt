@@ -1,0 +1,5 @@
+youtool
+pymongo
+matplotlib
+wordcloud
+textblob

@@ -97,6 +97,4 @@ docker run -d -p 27017:27017 --name mongo mongo
 ...
 ```
 
-## 📬 Contato
-
-Desenvolvido por [Seu Nome] — ✉️ [seu.email@exemplo.com]
+![Demonstração do Projeto](masanori.gif)

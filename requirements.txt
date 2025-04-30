@@ -1,5 +1,4 @@
 youtool
 pymongo
 matplotlib
-wordcloud
-textblob
+requests
